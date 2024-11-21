@@ -36,36 +36,6 @@ This project provides a comprehensive analysis of financial data for the top 12 
 - Python 3.8 or higher
 - pip (Python package installer)
 
-## Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone [repository_url] 
-   cd repository
-
-Create a Virtual Environment
-
-It's recommended to use a virtual environment to manage project dependencies.
-
-Bash
-python3 -m venv venv 
-Use code with caution.
-
-Activate the Virtual Environment
-
-On Windows:
-
-Bash
-venv\Scripts\activate
-Use code with caution.
-
-On macOS/Linux:
-
-Bash
-source venv/bin/activate
-Use code with caution.
-
 Install 1  Required Packages   
  1. 
 pip install -r environment/requirements.txt
