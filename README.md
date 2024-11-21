@@ -105,25 +105,13 @@ python scripts/eda.py
 python scripts/visualization.py
 Note: The scripts will generate outputs and figures in the reports/ directory.
 
-Packages Used
-
+Packages Used:
 pandas: Data manipulation and analysis.
 numpy: Numerical computing.
 matplotlib: Plotting and visualization.
 seaborn: Statistical data visualization.
 jupyter: Interactive notebooks for exploratory analysis.
 Node.js: Required for some JupyterLab extensions (ensure it's updated).
-
-
-Reports:
-reports/eda_report.md: Findings from the exploratory data analysis.
-reports/insights.md: Key insights and conclusions drawn from the data.
-
-Visualizations:
-Stored in reports/figures/, including:
-revenue_vs_income.png
-profit_margin_percentage.png
-correlation_matrix.png
 
 Acknowledgments
 Data Source: https://www.kaggle.com/datasets/willianoliveiragibin/top-12-german-companies
