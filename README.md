@@ -75,12 +75,12 @@ python scripts/visualization.py
 Note: The scripts will generate outputs and figures in the reports/ directory.
 
 Packages Used:
-pandas: Data manipulation and analysis.\n
+pandas: Data manipulation and analysis.
 numpy: Numerical computing.\n
-matplotlib: Plotting and visualization.\n
-seaborn: Statistical data visualization.\n
-jupyter: Interactive notebooks for exploratory analysis.\n
-Node.js: Required for some JupyterLab extensions (ensure it's updated).\n
+matplotlib: Plotting and visualization.
+seaborn: Statistical data visualization.
+jupyter: Interactive notebooks for exploratory analysis.
+Node.js: Required for some JupyterLab extensions (ensure it's updated).
 
 Acknowledgments
 Data Source: https://www.kaggle.com/datasets/willianoliveiragibin/top-12-german-companies
