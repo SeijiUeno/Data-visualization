@@ -21,32 +21,6 @@ This project provides a comprehensive analysis of financial data for the top 12 
 
 ## Directory Structure
 
-Top_12_German_Companies_Analysis/
-├── data/
-│   ├── raw/
-│   │   └── Top_12_German_Companies.csv
-│   └── processed/
-│       └── cleaned_data.csv
-├── notebooks/
-│   ├── eda.ipynb
-│   └── visualization.ipynb
-├── scripts/
-│   ├── data_cleaning.py
-│   ├── eda.py
-│   └── visualization.py
-├── reports/
-│   ├── eda_report.md
-│   ├── insights.md
-│   └── figures/
-│       ├── revenue_vs_income.png
-│       ├── profit_margin_percentage.png
-│       ├── correlation_matrix.png
-│       └── ...
-├── environment/
-│   └── requirements.txt
-├── README.md
-└── .gitignore
-
 - **data/:** Contains data files.
     - **raw/:** Original data files.
     - **processed/:** Cleaned and processed data files.
