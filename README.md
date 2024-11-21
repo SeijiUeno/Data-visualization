@@ -49,7 +49,6 @@ Bash
 python scripts/data_cleaning.py
 
 What This Does:
-
 Reads the raw CSV file from data/raw/Top_12_German_Companies.csv.
 Cleans and processes the data (handles missing values, converts data types, formats columns).
 Saves the cleaned data to data/processed/cleaned_data.csv.
@@ -76,12 +75,12 @@ python scripts/visualization.py
 Note: The scripts will generate outputs and figures in the reports/ directory.
 
 Packages Used:
-pandas: Data manipulation and analysis.
-numpy: Numerical computing.
-matplotlib: Plotting and visualization.
-seaborn: Statistical data visualization.
-jupyter: Interactive notebooks for exploratory analysis.
-Node.js: Required for some JupyterLab extensions (ensure it's updated).
+pandas: Data manipulation and analysis.\n
+numpy: Numerical computing.\n
+matplotlib: Plotting and visualization.\n
+seaborn: Statistical data visualization.\n
+jupyter: Interactive notebooks for exploratory analysis.\n
+Node.js: Required for some JupyterLab extensions (ensure it's updated).\n
 
 Acknowledgments
 Data Source: https://www.kaggle.com/datasets/willianoliveiragibin/top-12-german-companies
